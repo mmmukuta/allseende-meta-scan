@@ -1,8 +1,8 @@
-# 🛡️ TELA META SCAN 
+# 🛡️ ALLSEENDE META SCAN 
 
-**TELA META SCAN** is a professional desktop application designed to analyze, visualize, and securely eradicate hidden metadata (EXIF, GPS, Device Info) from image files. Built with a strict Privacy-First approach.
+**ALLSEENDE META SCAN** is a professional desktop application designed to analyze, visualize, and securely eradicate hidden metadata (EXIF, GPS, Device Info) from image files. Built with a strict Privacy-First approach.
 
-Every time you share a photo, you might be unintentionally leaking your exact GPS coordinates, camera model, and creation timestamps. TELA META SCAN exposes these vulnerabilities and generates a 100% anonymous, clean copy of your file with a single click—without compromising image quality.
+Every time you share a photo, you might be unintentionally leaking your exact GPS coordinates, camera model, and creation timestamps. ALLSEENDE META SCAN exposes these vulnerabilities and generates a 100% anonymous, clean copy of your file with a single click—without compromising image quality.
 
 ##  Key Features
 *  **Smart Exposure Scanner:** Filters out technical noise and highlights only critical data markers (Geolocation, Lens Model, Original Timestamps).
@@ -18,6 +18,6 @@ Every time you share a photo, you might be unintentionally leaking your exact GP
 
 ## 🚀 How to Install and Run
 
-1. Clone: `git clone https://github.com/mmmukuta/tela-meta-scan.git`
+1. Clone: `git clone https://github.com/mmmukuta/allseende-meta-scan.git`
 2. Install libraries: `python -m pip install -r requirements.txt`
 3. Start: `python main.py`
